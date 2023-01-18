@@ -1,0 +1,7 @@
+aiogram~=2.24
+selenium~=4.7.2
+fuzzywuzzy~=0.18.0
+urlextract~=1.8.0
+geopy~=2.3.0
+fake_useragent~=1.1.1
+Levenshtein~=0.20.9
